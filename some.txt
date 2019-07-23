@@ -1,2 +1,2 @@
 "Hello git" 
-"Some word"
+"Some word".
